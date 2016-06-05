@@ -1,0 +1,16 @@
+[
+	{
+	   "repository": "CyanogenMod/android_kernel_lge_hammerhead",
+	   "target_path": "kernel/lge/hammerhead",
+	   "remote": "github",
+	   "revision": "cm-13.0"
+   
+	},
+	{
+		 "repository": "TheMuppets/proprietary_vendor_lge",
+		 "target_path": "vendor/lge",
+		 "remote": "github",
+		 "revision": "cm-13.0"
+	}
+   
+]
